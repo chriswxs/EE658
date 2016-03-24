@@ -1,4 +1,4 @@
-# EE658
+# EE658 Diagnosis and Design of Reliable Digital Systems
 1. Project description
 
 In this project you will implement ATPG and fault simulator for combinational circuits. Each team should
